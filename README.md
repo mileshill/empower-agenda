@@ -8,6 +8,7 @@ Who was to write a bunch of events by hand? Yuck.
 
 [The notebook has all the details](./"Empower Schedule.ipynb").
 
+[The scraped CSV](./empower.agenda.csv)
 
 ## Digital Wildcatters
 The team at DW is responsible for all the awesome images. Check out what they are doing
