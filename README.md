@@ -6,7 +6,7 @@ that can be uploaded into Calendar to populate events.
 
 Who was to write a bunch of events by hand? Yuck.
 
-[The notebook has all the details](./"Empower Schedule.ipynb").
+[The notebook has all the details](./"Empower Schedule.ipynb")
 
 [The scraped CSV](./"empower.agenda.csv")
 
